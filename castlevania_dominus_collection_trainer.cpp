@@ -12,7 +12,7 @@ bool bHP = false, bMP = false, bHearts = false;
 
 void Menu() {
 	std::cout << "HOTKEY ||   FUNCTIONS   || STATUS\n";
-	std::cout << "=============================\n";
+	std::cout << "=================================\n";
 	std::cout << " NUM1  ||  Infinite HP  ||  " << (bHP ? "ON" : "OFF") << "\n";
 	std::cout << " NUM2  ||  Infinite MP  ||  " << (bMP ? "ON" : "OFF") << "\n";
 	std::cout << " NUM3  ||  Inf. Hearts  ||  " << (bHearts ? "ON" : "OFF") << "\n\n";
