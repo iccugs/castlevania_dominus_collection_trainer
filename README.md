@@ -10,7 +10,7 @@ This trainer allows you to modify game memory to enable various cheats and enhan
 
 This project was built using tutorials and code examples from **GuidedHacking.com**. All credit for the original memory manipulation, process injection, and core trainer functionality goes to the GuidedHacking community and their educational resources. This project simply builds upon their foundational work and adapts it for the Castlevania Dominus Collection.
 
-Special thanks to GuidedHacking.com for their comprehensive game hacking tutorials and open-source code examples.
+Special thanks to GuidedHacking.com for their comprehensive game hacking tutorials and code examples.
 
 ## Features
 
